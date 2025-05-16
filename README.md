@@ -1,2 +1,2 @@
-# Ruby Blog
+# Rails Blog
 
